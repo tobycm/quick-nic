@@ -1,0 +1,9 @@
+Default	True	2.0	5
++1V0	True	2.0	5
++3V3	True	2.0	5
++5V	True	2.0	5
+Ethernet	True	2.0	5
+GND	True	2.0	5
+USB 2.0	True	2.0	5
+USB 3.0	True	2.0	5
+False	True	False
