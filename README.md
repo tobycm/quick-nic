@@ -1,11 +1,21 @@
-# skibidi-kicad-project
+![render](pcb/render.png)
 
-this is a smart README file: a script is provided in scripts/generate_readme.py to help manage this
+# Quick NIC
 
+A homemade USB 3 to Gigabit Ethernet adapter. Equipped with RTL8153B and MagJack connector (integrated magnetics) for small footprint.
 
+[![View PCB on KiCanvas](assets/KiCanvas.png)](https://kicanvas.org/?repo=https://github.com/tobycm/quick-nic/tree/main/pcb)
+[![View BOM in iBOM](assets/iBom.png)](https://html-preview.github.io/?url=https://github.com/tobycm/quick-nic/blob/main/pcb/bom/ibom.html)
+[![View project on Hack Club Forge](assets/HackClub.png)](https://forge.hackclub.com/projects/2492)
+
+## PCB
+
+![pcb2](assets/pcb2.png)
+
+![pcb3](assets/pcb3.png)
+
+![pcb](assets/pcb.png)
 
 ## End notes
 
-Made with <3 by <img src="./assets/logo.png" width="16"> <a href="https://github.com/tobycm">@tobycm</a>
-
-This project was funded by [Hack Club](https://hackclub.com), the world's largest nonprofit movement of teenagers making cool projects.
+Made with <3 by @tobycm
