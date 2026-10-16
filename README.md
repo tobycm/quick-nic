@@ -16,6 +16,30 @@ A homemade USB 3 to Gigabit Ethernet adapter. Equipped with RTL8153B and MagJack
 
 ![pcb](assets/pcb.png)
 
+## BOM
+
+| Description | Quantity | Part # | Unit price | Extended Price USD | Product Link |
+|---|---|---|---|---|---|
+| Crystal 25MHz ±10ppm 20pF 50Ω SMD3225-4P | 5 | XC32M4-25.000-F20NJDT | 0.07 | 0.37 | https://www.lcsc.com/product-detail/C2842189.html |
+| QFN-40-EP(5x5) Drivers, Receivers, Transceivers | 1 | RTL8153B-VB-CG | 3.56 | 3.56 | https://www.lcsc.com/product-detail/C2802072.html |
+| 33pF ±5% 50V Ceramic Capacitor C0G 0603 | 100 | CL10C330JB8NNNC | 0.01 | 0.64 | https://www.lcsc.com/product-detail/C1663.html |
+| 10uF ±20% 25V Ceramic Capacitor X5R 0603 | 20 | CL10A106MA8NRNC | 0.08 | 1.55 | https://www.lcsc.com/product-detail/C96446.html |
+| 1 Active Low 2.7A Load Switch SOT-23-6 Power Distribution Switches, Load Drivers | 5 | CH217A | 0.10 | 0.50 | https://www.lcsc.com/product-detail/C54973763.html |
+| 220Ω@100MHz 1 Line Ferrite Bead 0805 2A 45mΩ | 20 | BLM21PG221SN1D | 0.03 | 0.69 | https://www.lcsc.com/product-detail/C85840.html |
+| 1uF ±10% 50V Ceramic Capacitor X5R 0603 | 50 | CL10A105KB8NNNC | 0.02 | 0.83 | https://www.lcsc.com/product-detail/C15849.html |
+| 2.49kΩ ±1% 100mW 0603 Thick Film Resistor | 100 | FRC0603F2491TS | 0.00 | 0.20 | https://www.lcsc.com/product-detail/C2930072.html |
+| USB-A (USB TYPE-A) Receptacle Connector 9 Position Recessed Mount | 10 | HC-USB3.0-C26 | 0.11 | 1.11 | https://www.lcsc.com/product-detail/C7501854.html |
+| 1nF ±10% 2kV Ceramic Capacitor X7R 1206 | 30 | 1206B102K202NT | 0.02 | 0.74 | https://www.lcsc.com/product-detail/C9196.html |
+| 1MΩ ±5% 100mW 0603 Thick Film Resistor | 100 | FRC0603J105 TS | 0.00 | 0.17 | https://www.lcsc.com/product-detail/C2907115.html |
+| 470Ω ±1% 100mW 0603 Thick Film Resistor | 100 | FRC0603F4700TS | 0.00 | 0.20 | https://www.lcsc.com/product-detail/C2907041.html |
+| Jack Modular Connector RJ45 Through Hole | 5 | HR911130A | 2.51 | 12.54 | https://www.lcsc.com/product-detail/C54408.html |
+| 62kΩ ±1% 100mW 0603 Thick Film Resistor | 100 | FRC0603F6202TS | 0.00 | 0.21 | https://www.lcsc.com/product-detail/C2907059.html |
+| LCSC Shipping | | LCSC Shipping | 13.34 | 13.34 | https://www.lcsc.com/ |
+| PCB | | PCB | 2.10 | 2.10 | https://jlcpcb.com/ |
+| Stencil | | Stencil | 3.10 | 3.10 | https://jlcpcb.com/ |
+| JLCPCB Shipping | | JLCPCB Shipping | 8.66 | 8.66 | https://jlcpcb.com/ |
+| | | Total: | | 50.53 | |
+
 ## End notes
 
 Made with <3 by @tobycm
